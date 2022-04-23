@@ -3030,8 +3030,9 @@ img.testimonial-thumb {
 
 /* Contact Us
 ================================================== */
-.map {
+.mapouter {
   height: 450px;
+
   z-index: 1;
 }
 
